@@ -1,0 +1,15 @@
+.TodoBox-input {
+    font-size: 1.2em;
+    padding: 2px 4px 2px 4px;
+    font-family: sans-serif;
+}
+
+.TodoBox-button {
+    background-color: #FA8072;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 4px;
+    padding: 10px 8px 6px 8px;
+    font-size: 0.9em;
+    cursor: pointer;
+}
